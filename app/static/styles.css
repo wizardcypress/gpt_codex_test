@@ -1,0 +1,13 @@
+body {
+  background-color: #f5f6fa;
+  font-family: "Inter", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card .display-6 {
+  font-weight: 600;
+}
+
+.table td,
+.table th {
+  vertical-align: middle;
+}
